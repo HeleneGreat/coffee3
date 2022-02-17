@@ -1,0 +1,17 @@
+{
+    "name": "kercode/coffee",
+    "autoload": {
+        "psr-4": {
+            "Kercode\\Coffee\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hélène CARRIOU",
+            "email": "helenec56@laposte.net"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.4"
+    }
+}
